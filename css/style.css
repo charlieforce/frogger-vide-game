@@ -1,0 +1,109 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    text-align: center;
+    margin: auto 0 0;
+}
+
+.container {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    font-family: 'Lato', sans-serif;
+}
+
+h1 {
+    font-family: 'Indie Flower', cursive;
+}
+h3 {
+    font-family: 'Lato', sans-serif;
+}
+
+header {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+    color: #8FBC8F;
+    background-color: lightblue;
+    font-size: 20px;
+}
+
+#link-buttons {
+    width: 40%;
+}
+
+#button-text {
+    text-align: center;
+}
+
+#github-button,
+#portfolio-button {
+    display: flex;
+    flex-wrap: wrap;
+    float: left;
+    width: 60%;
+    background-color: grey;
+    border-radius: 50%;
+    margin: 5px;
+    text-align: center;
+}
+
+#page-title {
+    width: 60%;
+    text-align: left;
+}
+
+#main {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+#game {
+    padding-left: 150px;
+    padding-top: 0;
+    width: 60%;
+}
+
+#info-bar {
+    width: auto;
+    background-color: #ddd;
+    margin-top: 10px;
+    width: 40%;
+}
+
+#project-description,
+#game-instructions {
+    padding: 30px;
+    font-size: 20px;
+}
+
+#project-description {
+    padding-bottom: 0px;
+}
+
+#game-instructions {
+    padding-top: 0px;
+}
+
+a:link {
+    color: #AD1457;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #AD1457;
+    text-decoration: underline;
+}
+
+a:active {
+    /*color: #000;*/
+    text-decoration: underline;
+}
+Contact GitHub API Training Shop Blog About
+© 2017 GitHub, Inc. Terms Privacy Security Status Help
