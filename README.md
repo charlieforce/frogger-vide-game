@@ -7,9 +7,10 @@ Frogger is a classic video game which was introduced by Konami in 1981 as a one 
 
 ##How to Play:
 
-![The Frogger Video Game](Screen Shot 2017-08-30.png)
-
 Use the arrow keys to move the player across the board. To win you need to reach water, but avoid colliding with the bugs.
 
+##Here is how the game should look like:  
+
+![alt tag](https://github.com/charlieforce/frogger-vide-game/blob/master/Screen%20Shot%202017-08-30.png)
 
 ##Enjoy it!  :smile:
