@@ -6,7 +6,7 @@ frontend-nanodegree-arcade-game
 Frogger is a classic video game which was introduced by Konami in 1981 as a one or two player game. The objective of the game is to move the frog from the bottom to the top and overcome obstacles that come your way.
 
 ## Check out the live link:
-[a link] (https://charlieforce.github.io/frogger-vide-game/)
+The Frogger Game:- (https://charlieforce.github.io/frogger-vide-game/)
 
 ## How to Run the game:
 
